@@ -1,0 +1,14 @@
+C:\Users\mart\source\repos\QuickDMX for Windows\QuickDMX for Windows\bin\Debug\QuickDMX for Windows.exe.config
+C:\Users\mart\source\repos\QuickDMX for Windows\QuickDMX for Windows\bin\Debug\QuickDMX for Windows.exe
+C:\Users\mart\source\repos\QuickDMX for Windows\QuickDMX for Windows\bin\Debug\QuickDMX for Windows.pdb
+C:\Users\mart\source\repos\QuickDMX for Windows\QuickDMX for Windows\obj\Debug\QuickDMX for Windows.csprojAssemblyReference.cache
+C:\Users\mart\source\repos\QuickDMX for Windows\QuickDMX for Windows\obj\Debug\MainWindow.g.cs
+C:\Users\mart\source\repos\QuickDMX for Windows\QuickDMX for Windows\obj\Debug\App.g.cs
+C:\Users\mart\source\repos\QuickDMX for Windows\QuickDMX for Windows\obj\Debug\QuickDMX for Windows_MarkupCompile.cache
+C:\Users\mart\source\repos\QuickDMX for Windows\QuickDMX for Windows\obj\Debug\QuickDMX for Windows_MarkupCompile.lref
+C:\Users\mart\source\repos\QuickDMX for Windows\QuickDMX for Windows\obj\Debug\MainWindow.baml
+C:\Users\mart\source\repos\QuickDMX for Windows\QuickDMX for Windows\obj\Debug\QuickDMX for Windows.g.resources
+C:\Users\mart\source\repos\QuickDMX for Windows\QuickDMX for Windows\obj\Debug\QuickDMX_for_Windows.Properties.Resources.resources
+C:\Users\mart\source\repos\QuickDMX for Windows\QuickDMX for Windows\obj\Debug\QuickDMX for Windows.csproj.GenerateResource.cache
+C:\Users\mart\source\repos\QuickDMX for Windows\QuickDMX for Windows\obj\Debug\QuickDMX for Windows.exe
+C:\Users\mart\source\repos\QuickDMX for Windows\QuickDMX for Windows\obj\Debug\QuickDMX for Windows.pdb
